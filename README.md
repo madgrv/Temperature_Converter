@@ -34,4 +34,5 @@ A JavaScript temperature converter with user interface.
 
 
 
-Error handling was not requested (nor taught yet) at the time of the assignment but I have added it doing my own research to make a complete program//
+- Error handling was not requested (nor taught yet) at the time of the assignment but I have added it doing my own research to make a complete program.
+- Added wrapper to wait for page load and to run on click from the HTML
